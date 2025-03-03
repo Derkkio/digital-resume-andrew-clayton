@@ -3,7 +3,7 @@
 ## About Me
 Hello! My name is **Andrew Derek Clayton II**, and I am currently a **Computer Engineering student** at **Mississippi State University**.  
 I transferred from **Meridian Community College**, and I have a passion for **technology, gaming, and fitness**.  
-One of my favorite things is **Cara Cara oranges** 🍊!
+One of my favorite things to eat are **Cara Cara oranges** 🍊!
 
 ## Education
 - **Mississippi State University** – B.S. in Computer Engineering  
